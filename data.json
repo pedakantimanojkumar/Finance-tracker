@@ -1,0 +1,34 @@
+{
+    "transactions": [
+        {
+            "type": "income",
+            "amount": 1000000.0,
+            "category": "salary",
+            "date": "2025-12-05",
+            "description": "salary"
+        },
+        {
+            "type": "expense",
+            "amount": 2000000.0,
+            "category": "movies",
+            "date": "2025-12-05",
+            "description": "one piece movies"
+        },
+        {
+            "type": "income",
+            "amount": 1000000.0,
+            "category": "gift",
+            "date": "2025-12-05",
+            "description": "income earned for gifts"
+
+
+        },
+        {
+             "type": "expense",
+            "amount": 2000000.0,
+            "category": "grocery",
+            "date": "2025-12-05",
+            "description": "one piece movies"
+        }
+    ]
+}
